@@ -1,4 +1,4 @@
-# 🚧 README em construção 🚧
+# 🚧 README Under Construction 🚧
 
 <!-- Olá, Tryber!
 
@@ -18,6 +18,6 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 ### Get To Know The Project
 
-- API Endpoints: 
+- API Endpoints: </br>
 [Hawkins Mode](https://carlosaflach-up.herokuapp.com/) </br>
 [UpsideDown Mode](https://carlosaflach-dw.herokuapp.com/) </br>
