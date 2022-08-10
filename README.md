@@ -14,3 +14,10 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 
 -->
+
+
+### Get To Know The Project
+
+- API Endpoints: 
+[Hawkins Mode](https://carlosaflach-up.herokuapp.com/) </br>
+[UpsideDown Mode](https://carlosaflach-dw.herokuapp.com/) </br>
